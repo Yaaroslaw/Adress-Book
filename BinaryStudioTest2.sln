@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{2458F005-A3EC-443C-8F18-B494357A97EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressBook", "AddressBook\AddressBook.csproj", "{AAB20A97-33DE-49BE-B438-4C87D60B2D2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{2CBD3091-D0DB-4FD5-B866-2257DE69732F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2458F005-A3EC-443C-8F18-B494357A97EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2458F005-A3EC-443C-8F18-B494357A97EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2458F005-A3EC-443C-8F18-B494357A97EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2458F005-A3EC-443C-8F18-B494357A97EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB20A97-33DE-49BE-B438-4C87D60B2D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB20A97-33DE-49BE-B438-4C87D60B2D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB20A97-33DE-49BE-B438-4C87D60B2D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB20A97-33DE-49BE-B438-4C87D60B2D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBD3091-D0DB-4FD5-B866-2257DE69732F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBD3091-D0DB-4FD5-B866-2257DE69732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBD3091-D0DB-4FD5-B866-2257DE69732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBD3091-D0DB-4FD5-B866-2257DE69732F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
